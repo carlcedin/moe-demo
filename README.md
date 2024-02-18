@@ -1,6 +1,3 @@
-![Dirty Pipe](https://forum.hackersploit.org/uploads/default/original/2X/a/a3cc4ce68db810c4e24d35cb929a952363f11703.png
-)
-
 # CVE-2022-0847-DirtyPipe-Exploits
 A collection of exploits and documentation for penetration testers and red teamers that can be used to aid the exploitation of the Linux Dirty Pipe vulnerability.
 
